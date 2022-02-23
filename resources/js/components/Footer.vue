@@ -1,6 +1,6 @@
 <template>
   <footer>
-      <h1>Ciao sono il footer piu brutto di sempre</h1>
+      <h2>Ciao sono il footer piu brutto di sempre</h2>
   </footer>
 </template>
 
